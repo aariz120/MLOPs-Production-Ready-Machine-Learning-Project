@@ -4,6 +4,8 @@
 
 2. MLOPs Tool: https://www.evidentlyai.com/
 
+3. Data link: https://www.kaggle.com/datasets/moro23/easyvisa-datase
+
 
 # Git Command :
 ```
@@ -16,11 +18,11 @@ git push origin main
 
 # How to run?
 ```
-conda create -n usvisaenv  python=3.10 -y
+conda create -n usvisenv  python=3.8 -y
 ```
 
 ```
-conda activate  usvisaenv 
+conda activate  usvisenv 
 ```
 
 ```
